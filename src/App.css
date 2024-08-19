@@ -1,0 +1,15 @@
+.header {
+  background-color: #16181f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: sans-serif;
+  padding: 15px;
+}
+
+.reactLogo {
+  height: 60px;
+  width: 60px;
+}
