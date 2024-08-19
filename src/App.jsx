@@ -13,6 +13,9 @@ function App() {
         <p>🧠 Expand your React knowledge, One flashcard at a time 🙋🏻‍♂️</p>
       </header>
       <FlashCard/>
+      <footer className="footer">
+        <p>Built with react <img src={reactLogo} className="reactLogoFooter"></img></p>
+      </footer>
     </div>
   );
 }

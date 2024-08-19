@@ -13,3 +13,18 @@
   height: 60px;
   width: 60px;
 }
+
+
+.reactLogoFooter {
+  height: 15px;
+  width: 15px;
+}
+
+.footer {
+  text-align: center;
+  background-color: #16181f;
+  color: white;
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

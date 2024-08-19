@@ -11,8 +11,8 @@ App
 
 1. Make a component for header. ✅
 2. Style the header component. ✅
-3. Make a component for flashcards.
-4. Style flashcards.
+3. Make a component for flashcards. ✅
+4. Style flashcards.✅
 5. Make component for footer.
 6. Style footer.
 7. Make form component.
