@@ -2,6 +2,7 @@ import React from "react";
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import "./App.css";
+import FlashCard from "./components/flashCard/flashCard.jsx"
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <h1>React Flashcards</h1>
         <p>🧠 Expand your React knowledge, One flashcard at a time 🙋🏻‍♂️</p>
       </header>
+      <FlashCard/>
     </div>
   );
 }

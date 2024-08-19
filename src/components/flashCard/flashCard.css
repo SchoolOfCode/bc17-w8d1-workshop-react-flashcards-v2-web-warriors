@@ -1,0 +1,25 @@
+.flashCardContainer
+{
+    background-color: #232731;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card
+{
+    background-color: #323949;
+    color: white;
+    text-align: center;
+    padding: 100px;
+    border-radius: 10px;
+    width: 18%;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.flashCard3
+{
+    padding: 90px;
+}
