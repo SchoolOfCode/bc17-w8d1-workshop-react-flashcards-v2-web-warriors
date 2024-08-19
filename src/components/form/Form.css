@@ -1,0 +1,28 @@
+.userForm {
+    background-color: #323949;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.inputField {
+    background-color: #2f323c;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+
+.addButton {
+    background-color: #06b1df;
+    color: white;
+    border-radius: 3px;
+    width: 60px;
+    padding: 5px;
+    border: none;
+}

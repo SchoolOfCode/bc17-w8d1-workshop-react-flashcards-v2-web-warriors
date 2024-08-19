@@ -1,3 +1,7 @@
+.wrapper {
+  height: 100vh;
+}
+
 .header {
   background-color: #16181f;
   display: flex;
